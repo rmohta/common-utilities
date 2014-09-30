@@ -1,0 +1,9 @@
+Link: http://emma.sourceforge.net/downloads.html
+
+Release distribution
+emma-major.minor.build.zip	complete install image, with binaries, documentation, and examples (but without source code)
+emma-major.minor.build-src.zip	source code distribution, with build instructions
+emma-major.minor.build-lib.zip	.jar binaries only (suitable for patching the lib directory of an existing install)
+Early access/stable distribution
+emma-stable-major.minor.build-lib.zip	.jar binaries only (suitable for patching the lib directory of an existing install)
+
